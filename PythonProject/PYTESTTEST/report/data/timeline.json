@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-5O0J5MBG",
+    "children" : [ {
+      "name" : "38024-MainThread",
+      "children" : [ {
+        "name" : "test_01_login_success",
+        "uid" : "ea312b2ac1503aad",
+        "parentUid" : "172454c88605a8493966b7c4337b0370",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609049298020,
+          "stop" : 1609049300873,
+          "duration" : 2853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_login_filed",
+        "uid" : "3f7d88ac3cb16080",
+        "parentUid" : "172454c88605a8493966b7c4337b0370",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609049300885,
+          "stop" : 1609049301864,
+          "duration" : 979
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_03_banalist",
+        "uid" : "d9e40a207cbeaa00",
+        "parentUid" : "172454c88605a8493966b7c4337b0370",
+        "status" : "broken",
+        "time" : {
+          "start" : 1609049302749,
+          "stop" : 1609049303047,
+          "duration" : 298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_reg_failed1",
+        "uid" : "570a526d02376957",
+        "parentUid" : "172454c88605a8493966b7c4337b0370",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609049302224,
+          "stop" : 1609049302378,
+          "duration" : 154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_reg_failed2",
+        "uid" : "45013bdad9a8476e",
+        "parentUid" : "172454c88605a8493966b7c4337b0370",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609049302391,
+          "stop" : 1609049302635,
+          "duration" : 244
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_02_reg_failed3",
+        "uid" : "d16e15682c383360",
+        "parentUid" : "172454c88605a8493966b7c4337b0370",
+        "status" : "passed",
+        "time" : {
+          "start" : 1609049302643,
+          "stop" : 1609049302738,
+          "duration" : 95
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "172454c88605a8493966b7c4337b0370"
+    } ],
+    "uid" : "f3b134739e259e17ff79e34cbc0c1dfd"
+  } ]
+}

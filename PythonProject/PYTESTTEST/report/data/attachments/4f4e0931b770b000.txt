@@ -1,0 +1,13 @@
+{
+  "data": {
+    "id": 20648, 
+    "nickname": "liuyun110", 
+    "phone": null, 
+    "status": "1", 
+    "token": "d85cd6d8946ef85549340b1011nuyuil57903deed3fa30716", 
+    "username": "liuyun110"
+  }, 
+  "msg": "登陆成功", 
+  "status": 200
+}
+

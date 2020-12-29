@@ -1,0 +1,55 @@
+{
+  "uid" : "d16e15682c383360",
+  "name" : "test_02_reg_failed3",
+  "fullName" : "case.test_02_regist#test_02_reg_failed3",
+  "historyId" : "fb85e636b75bdbde99dd5789bd7f2c17",
+  "time" : {
+    "start" : 1609049302643,
+    "stop" : 1609049302738,
+    "duration" : 95
+  },
+  "description" : "\n    3、注册成功\n    ",
+  "descriptionHtml" : "<pre><code>3、注册成功\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_regist"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5O0J5MBG"
+  }, {
+    "name" : "thread",
+    "value" : "38024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_02_regist"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d16e15682c383360.json",
+  "parameterValues" : [ ]
+}

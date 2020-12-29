@@ -1,0 +1,118 @@
+{
+  "94e171d02ccde6e10e5ab2fd484dc0ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "45013bdad9a8476e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609049302391,
+        "stop" : 1609049302635,
+        "duration" : 244
+      }
+    } ]
+  },
+  "c3459a6e528a98c72578d3e1c49cbcf4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9e40a207cbeaa00",
+      "status" : "broken",
+      "statusDetails" : "NameError: name 'd' is not defined",
+      "time" : {
+        "start" : 1609049302749,
+        "stop" : 1609049303047,
+        "duration" : 298
+      }
+    } ]
+  },
+  "ce949459a6bfb3937e80d11456bc65a9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f7d88ac3cb16080",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == 0\n +  where 1 = len(((20621, 'liuyun1', 'a12345678', None, 'liuyun1', None, ...),))\n +    where ((20621, 'liuyun1', 'a12345678', None, 'liuyun1', None, ...),) = query(\"select * from tb_user where username='liuyun1' and password = 'a12345678'\")",
+      "time" : {
+        "start" : 1609049300885,
+        "stop" : 1609049301864,
+        "duration" : 979
+      }
+    } ]
+  },
+  "fb85e636b75bdbde99dd5789bd7f2c17" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d16e15682c383360",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609049302643,
+        "stop" : 1609049302738,
+        "duration" : 95
+      }
+    } ]
+  },
+  "26d4a4bcaf9def6cde5453c9ef5bb3c4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea312b2ac1503aad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609049298020,
+        "stop" : 1609049300873,
+        "duration" : 2853
+      }
+    } ]
+  },
+  "cbb0f6d1aa54d81493ff7437c9eb6a12" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "570a526d02376957",
+      "status" : "passed",
+      "time" : {
+        "start" : 1609049302224,
+        "stop" : 1609049302378,
+        "duration" : 154
+      }
+    } ]
+  }
+}

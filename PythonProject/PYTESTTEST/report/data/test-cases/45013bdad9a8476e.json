@@ -1,0 +1,55 @@
+{
+  "uid" : "45013bdad9a8476e",
+  "name" : "test_02_reg_failed2",
+  "fullName" : "case.test_02_regist#test_02_reg_failed2",
+  "historyId" : "94e171d02ccde6e10e5ab2fd484dc0ca",
+  "time" : {
+    "start" : 1609049302391,
+    "stop" : 1609049302635,
+    "duration" : 244
+  },
+  "description" : "\n    2、账号长度不规范注册失败\n    ",
+  "descriptionHtml" : "<pre><code>2、账号长度不规范注册失败\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_02_regist"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5O0J5MBG"
+  }, {
+    "name" : "thread",
+    "value" : "38024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_02_regist"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45013bdad9a8476e.json",
+  "parameterValues" : [ ]
+}

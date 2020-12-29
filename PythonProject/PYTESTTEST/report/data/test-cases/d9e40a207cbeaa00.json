@@ -1,0 +1,80 @@
+{
+  "uid" : "d9e40a207cbeaa00",
+  "name" : "test_03_banalist",
+  "fullName" : "case.test_03_index#test_03_banalist",
+  "historyId" : "c3459a6e528a98c72578d3e1c49cbcf4",
+  "time" : {
+    "start" : 1609049302749,
+    "stop" : 1609049303047,
+    "duration" : 298
+  },
+  "description" : "获取首页轮播图",
+  "descriptionHtml" : "<p>获取首页轮播图</p>\n",
+  "status" : "broken",
+  "statusMessage" : "NameError: name 'd' is not defined",
+  "statusTrace" : "def test_03_banalist():\n        '''获取首页轮播图'''\n        url=\"http://118.24.255.132:8282/api/get/bannerlist\"\n        header={\"token\":read_file('./conf/user_token.txt')}\n        res = requests.get(url=url,headers=header)\n        print(res.text)\n        assert res.status_code ==200\n        assert res.json()[\"status\"]==200\n    \n    \n        #for循环遍历数组来查询sql\n        data=res.json()[\"data\"]\n        for i in data:\n>           imghost=d['imghost']\nE           NameError: name 'd' is not defined\n\ncase\\test_03_index.py:24: NameError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "获取首页轮播图",
+    "status" : "broken",
+    "statusMessage" : "NameError: name 'd' is not defined",
+    "statusTrace" : "def test_03_banalist():\n        '''获取首页轮播图'''\n        url=\"http://118.24.255.132:8282/api/get/bannerlist\"\n        header={\"token\":read_file('./conf/user_token.txt')}\n        res = requests.get(url=url,headers=header)\n        print(res.text)\n        assert res.status_code ==200\n        assert res.json()[\"status\"]==200\n    \n    \n        #for循环遍历数组来查询sql\n        data=res.json()[\"data\"]\n        for i in data:\n>           imghost=d['imghost']\nE           NameError: name 'd' is not defined\n\ncase\\test_03_index.py:24: NameError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e046df479056259b",
+      "name" : "stdout",
+      "source" : "e046df479056259b.txt",
+      "type" : "text/plain",
+      "size" : 1643
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_03_index"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5O0J5MBG"
+  }, {
+    "name" : "thread",
+    "value" : "38024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_03_index"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d9e40a207cbeaa00.json",
+  "parameterValues" : [ ]
+}

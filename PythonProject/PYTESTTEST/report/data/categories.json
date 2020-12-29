@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 1 == 0\n +  where 1 = len(((20621, 'liuyun1', 'a12345678', None, 'liuyun1', None, ...),))\n +    where ((20621, 'liuyun1', 'a12345678', None, 'liuyun1', None, ...),) = query(\"select * from tb_user where username='liuyun1' and password = 'a12345678'\")",
+      "children" : [ {
+        "name" : "test_01_login_filed",
+        "uid" : "3f7d88ac3cb16080",
+        "parentUid" : "2ac6da73ea3542adbf9a1ae3e65891f3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1609049300885,
+          "stop" : 1609049301864,
+          "duration" : 979
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ac6da73ea3542adbf9a1ae3e65891f3"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "NameError: name 'd' is not defined",
+      "children" : [ {
+        "name" : "test_03_banalist",
+        "uid" : "d9e40a207cbeaa00",
+        "parentUid" : "2c6f0c269056639e517cf57d38485df6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1609049302749,
+          "stop" : 1609049303047,
+          "duration" : 298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c6f0c269056639e517cf57d38485df6"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

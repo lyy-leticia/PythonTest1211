@@ -1,0 +1,13 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 27 14:08:18 CST 2020","Sun Dec 27 14:08:20 CST 2020","2853","case","test_01_login","","","","test_01_login_success",""
+"failed","Sun Dec 27 14:08:20 CST 2020","Sun Dec 27 14:08:21 CST 2020","979","case","test_01_login","","","","test_01_login_filed",""
+"broken","Sun Dec 27 14:08:22 CST 2020","Sun Dec 27 14:08:23 CST 2020","298","case","test_03_index","","","","test_03_banalist","获取首页轮播图"
+"passed","Sun Dec 27 14:08:22 CST 2020","Sun Dec 27 14:08:22 CST 2020","154","case","test_02_regist","","","","test_02_reg_failed1","
+    1、已存在的账号注册失败
+    "
+"passed","Sun Dec 27 14:08:22 CST 2020","Sun Dec 27 14:08:22 CST 2020","244","case","test_02_regist","","","","test_02_reg_failed2","
+    2、账号长度不规范注册失败
+    "
+"passed","Sun Dec 27 14:08:22 CST 2020","Sun Dec 27 14:08:22 CST 2020","95","case","test_02_regist","","","","test_02_reg_failed3","
+    3、注册成功
+    "

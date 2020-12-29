@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "imghost": "[\"vIBO1xviwtVoNTT.jpg\"]", 
+      "linkurl": "www.baidu.com"
+    }, 
+    {
+      "imghost": "[\"6giNfPKz7ekopzt.jpg\"]", 
+      "linkurl": "1"
+    }, 
+    {
+      "imghost": "[\"0To26ABb1g1uq93.jpg\"]", 
+      "linkurl": "11"
+    }, 
+    {
+      "imghost": "[\"EtdJtwutknawZu0.jpg\"]", 
+      "linkurl": "1"
+    }, 
+    {
+      "imghost": "[\"tgzQ6MXbsNbSyqO.jpg\"]", 
+      "linkurl": "http://zzy.testgoup.com/#/bannerList"
+    }, 
+    {
+      "imghost": "[\"hHhE4hUkvgxzi2h.jpeg\"]", 
+      "linkurl": "https://github.com/testjie"
+    }, 
+    {
+      "imghost": "[\"Wzln0i9Q6NOdmry.png\"]", 
+      "linkurl": "http://yxt.testgoup.com/task/#g=1&p=__banner"
+    }, 
+    {
+      "imghost": "[1]", 
+      "linkurl": "12346"
+    }, 
+    {
+      "imghost": "[1]", 
+      "linkurl": "12346"
+    }, 
+    {
+      "imghost": "[1]", 
+      "linkurl": "12346"
+    }, 
+    {
+      "imghost": "[\"24AJu2cBQQdk5YE.jpg\"]", 
+      "linkurl": "哈哈哈"
+    }, 
+    {
+      "imghost": "[\"PkOwQmPMNYlzfNA.png\"]", 
+      "linkurl": "222"
+    }, 
+    {
+      "imghost": "[\"NcRctnbcnLUHjVR.jpg\"]", 
+      "linkurl": "www.baidu.com"
+    }, 
+    {
+      "imghost": "[\"GGAsxx3D6K5Zg9e.png\"]", 
+      "linkurl": "333"
+    }, 
+    {
+      "imghost": "[\"599OFgzuUuvdlcw.jpg\"]", 
+      "linkurl": "vhhgft"
+    }, 
+    {
+      "imghost": "[\"8RW32G2ijktpMTY.jpg\"]", 
+      "linkurl": "qwqw"
+    }, 
+    {
+      "imghost": "[\"Th0S3rLhcc6BI7K.jpeg\"]", 
+      "linkurl": "1"
+    }, 
+    {
+      "imghost": "[\"dfm5DhTZmgKlwGw.png\"]", 
+      "linkurl": "哈哈"
+    }
+  ], 
+  "msg": "操作成功！", 
+  "status": 200
+}
+
